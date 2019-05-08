@@ -1,0 +1,4 @@
+export const FETCH_PRODUCTS_ALL = 'FETCH_PRODUCTS_ALL'
+
+
+

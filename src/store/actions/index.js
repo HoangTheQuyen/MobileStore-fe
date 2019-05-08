@@ -1,0 +1,3 @@
+export {
+   fetchAllProducts
+} from './product';
